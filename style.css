@@ -1,0 +1,40 @@
+body
+{
+   background-color:aliceblue;
+}
+.tcolor
+{
+    color: blueviolet;
+    font-weight: bold;
+    background-color:aliceblue;
+   
+}
+.color
+{
+    color: red;
+    box-shadow: 2px 2px 10px blueviolet;
+    font-weight: bold;
+}
+.imgs
+{
+   border-radius: 50px;
+   height:40%;
+   width:20%;
+   box-shadow: 5px 5px 18px yellow;
+}
+#case
+{
+   color: blue;
+   box-shadow: 5px 5px 18px deeppink;
+}
+
+.container
+{
+   box-shadow: 5px 5px 18px deeppink;
+   background-color: lightblue;
+}
+hr
+{
+   border-width: 10px;
+    color: white;
+}
